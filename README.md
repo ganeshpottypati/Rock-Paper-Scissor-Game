@@ -8,7 +8,7 @@ A simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript.
 - Reset & Auto Play features
 
 ## 🚀 Live Demo
-[Add link here if deployed]
+https://ganeshpottypati.github.io/Rock-Paper-Scissor-Game/
 
 ## 📂 How to Use
 Just open `index.html` in your browser and play!
